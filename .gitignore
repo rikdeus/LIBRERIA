@@ -24,3 +24,9 @@ hs_err_pid*
 replay_pid*
 /SistemaLibreria-Java/nbproject/private/
 /SistemaLibreria-Java/target/
+
+# Proyecto
+SistemaLibreria-Java/datos/
+datos/
+nbproject/private/
+target/
